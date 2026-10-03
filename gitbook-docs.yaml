@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Morpheus MuWeb
+  structure:
+    - type: space
+      key: space-guias
+      title: Guias do Morpheus MuWeb
+      path: guias
+      default: true
+      content:
+        directory: ./guias
