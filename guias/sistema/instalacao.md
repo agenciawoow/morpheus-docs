@@ -23,7 +23,7 @@ O assistente mostra uma lista de verificações na etapa **Requisitos**. Cada it
 
 | Verificação (como aparece na tela) | O que significa |
 |------|------|
-| **PHP Version 8.3+** | PHP na versão 8.3 ou mais recente. |
+| **PHP Version 8.4+** | PHP na versão 8.4 ou mais recente. |
 | **PDO Driver (sqlsrv)** | O conector do PHP para SQL Server. Sem ele o site não conversa com o banco do jogo. |
 | **ionCube Loader** | Componente obrigatório para rodar o Morpheus. |
 | **JSON PHP Extension** | Extensão do PHP. |
