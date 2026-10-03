@@ -2,16 +2,36 @@ $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
   title: Morpheus MuWeb
   structure:
-    - type: space
-      key: space-guias
-      title: Guias do Morpheus MuWeb
+    - type: section
+      key: section-guias
+      title: Guias
+      localizedTitle:
+        en: Guides
+        es: Guías
       path: guias
       default: true
-      content:
-        directory: ./guias
-    - type: space
-      key: space-novidades
+      children:
+        - type: space
+          key: space-guias
+          title: Guias do Morpheus MuWeb
+          path: pt
+          default: true
+          content:
+            directory: ./guias
+            language: pt
+    - type: section
+      key: section-novidades
       title: Novidades
+      localizedTitle:
+        en: What's new
+        es: Novedades
       path: novidades
-      content:
-        directory: ./novidades
+      children:
+        - type: space
+          key: space-novidades
+          title: Novidades
+          path: pt
+          default: true
+          content:
+            directory: ./novidades
+            language: pt
