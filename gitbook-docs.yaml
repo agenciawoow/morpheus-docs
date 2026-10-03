@@ -9,3 +9,9 @@ site:
       default: true
       content:
         directory: ./guias
+    - type: space
+      key: space-novidades
+      title: Novidades
+      path: novidades
+      content:
+        directory: ./novidades

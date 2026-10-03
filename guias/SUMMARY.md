@@ -11,7 +11,6 @@
 * [Atualização, licença e Morpheus Market](atualizacao-e-licenca.md)
 * [Proteção contra bots](protecao-contra-bots.md)
 * [Criando plugins com inteligência artificial](plugins-com-ia.md)
-* [Novidades do Morpheus](changelog.md)
 
 ## Painel do dia a dia
 

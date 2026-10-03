@@ -28,7 +28,6 @@ Sugestão de ordem de leitura para quem está começando:
 | [Atualização, licença e Morpheus Market](atualizacao-e-licenca.md) | Atualizar o sistema, licença, instalar plugins e temas              |
 | [Proteção contra bots](protecao-contra-bots.md)                    | reCAPTCHA e Turnstile no cadastro e na recuperação de senha         |
 | [Criando plugins com inteligência artificial](plugins-com-ia.md)   | Como pedir plugins e personalizações a um assistente de IA          |
-| [Novidades do Morpheus](changelog.md)                              | O que mudou a cada atualização                                      |
 
 ## Painel do dia a dia
 
