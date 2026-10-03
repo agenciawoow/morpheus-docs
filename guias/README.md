@@ -4,6 +4,8 @@ description: Morpheus Mu Web by Hi Networks
 
 # Guias do Morpheus MuWeb
 
+<figure><img src=".gitbook/assets/morpheus-v7.png" alt="Morpheus v7 — painel administrativo e área do jogador"><figcaption></figcaption></figure>
+
 Guias escritos para quem administra o servidor pelo painel: o que cada recurso faz, como o jogador o usa e onde configurar cada coisa. Nenhum deles exige conhecimento técnico.
 
 Sugestão de ordem de leitura para quem está começando:
